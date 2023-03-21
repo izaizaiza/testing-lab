@@ -1,0 +1,15 @@
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\bin\Debug\net6.0\BasicMath.exe
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\bin\Debug\net6.0\BasicMath.deps.json
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\bin\Debug\net6.0\BasicMath.runtimeconfig.json
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\bin\Debug\net6.0\BasicMath.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\bin\Debug\net6.0\BasicMath.pdb
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.csproj.AssemblyReference.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfo.cs
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\refint\BasicMath.dll
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.pdb
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\BasicMath.genruntimeconfig.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\BasicMath\obj\Debug\net6.0\ref\BasicMath.dll
