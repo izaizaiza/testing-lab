@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BasicMath"
+    "\\BasicMath",
+    "\\BasicMathTests"
   ],
-  "SelectedNode": "\\BasicMath",
+  "SelectedNode": "\\BasicMathTests\\BasicMathTests.cs",
   "PreviewInSolutionExplorer": false
 }
